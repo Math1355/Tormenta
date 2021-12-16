@@ -21,9 +21,108 @@ h2{
     padding-left: 150px;
 }
 
+#Reinado{
+    width: 30%;
+    padding-left: 450px;
+}
+
+.titula-da-lista-centralizado{
+    text-align: left;
+}
+
+.lugares-importantes{
+    font-style: italic;
+}
+
+lu{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 35%;
+}
+
 h3{
     text-align: center;
 }
 
+#CidadeSobDeusa{
+    padding-left: 150px;
+}
+
+#Pondsmania{
+    padding-left: 150px;
+}
+
+#AcademiaArcana{
+    width: 50%;
+    padding-left: 300px;
+}
+
+#MercadoNasNuvens{
+    padding-left: 375px;
+}
+
+#SupremaciaPurista{
+    padding-left: 275px;
+}
+
+#Asloth{
+    width: 60%;
+    padding-left: 250px;
+}
+
+#Sckharshantallas{
+    padding-left: 250px;
+}
+
+#Sanguinarias{
+    padding-left: 150px;
+}
+
+#Uivantes{
+    width: 50%;
+    padding-left: 300px;
+}
+
+#NovaMalpetrim{
+    padding-left: 150px;
+}
+
+#RuinasDeTyrondir{
+    width: 50%;
+    padding-left: 300px;
+}
+
+#Doherimm{
+    padding-left: 250px;
+}
+
+#Galrasia{
+    width: 35%;
+    padding-left: 400px;
+}
+
+#Lamnor{
+    width: 35%;
+    padding-left: 400px;
+}
+
+#Lenorienn{
+    width: 35%;
+    padding-left: 420px;
+}
+
+#Tamu-ra{
+    padding-left: 270px;
+}
+
+#ReinosDeMoreania{
+    width: 50%;
+    padding-left: 300px;
+}
+
+#A_Tormenta{
+    padding-left: 200px;
+}
 
 
